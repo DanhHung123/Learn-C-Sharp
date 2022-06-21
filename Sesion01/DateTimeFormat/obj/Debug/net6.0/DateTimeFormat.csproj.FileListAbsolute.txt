@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.exe
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.deps.json
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.runtimeconfig.json
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.dll
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.pdb
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.dll
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\refint\DateTimeFormat.dll
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.pdb
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Sesion01\DateTimeFormat\obj\Debug\net6.0\ref\DateTimeFormat.dll

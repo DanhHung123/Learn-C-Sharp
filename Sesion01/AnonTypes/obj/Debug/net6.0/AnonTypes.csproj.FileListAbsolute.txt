@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\bin\Debug\net6.0\AnonTypes.exe
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\bin\Debug\net6.0\AnonTypes.deps.json
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\bin\Debug\net6.0\AnonTypes.runtimeconfig.json
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\bin\Debug\net6.0\AnonTypes.dll
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\bin\Debug\net6.0\AnonTypes.pdb
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.dll
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\refint\AnonTypes.dll
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.pdb
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\AnonTypes.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Sesion01\AnonTypes\obj\Debug\net6.0\ref\AnonTypes.dll

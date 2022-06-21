@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Sesion01\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll

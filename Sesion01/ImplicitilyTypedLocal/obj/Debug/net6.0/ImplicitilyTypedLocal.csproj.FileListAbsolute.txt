@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.exe
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.deps.json
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.runtimeconfig.json
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.dll
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.pdb
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.dll
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\refint\ImplicitilyTypedLocal.dll
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.pdb
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Sesion01\ImplicitilyTypedLocal\obj\Debug\net6.0\ref\ImplicitilyTypedLocal.dll

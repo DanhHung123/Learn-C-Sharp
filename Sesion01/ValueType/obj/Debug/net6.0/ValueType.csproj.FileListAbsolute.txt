@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Sesion01\ValueType\bin\Debug\net6.0\ValueType.exe
+C:\Users\tranv\source\repos\Sesion01\ValueType\bin\Debug\net6.0\ValueType.deps.json
+C:\Users\tranv\source\repos\Sesion01\ValueType\bin\Debug\net6.0\ValueType.runtimeconfig.json
+C:\Users\tranv\source\repos\Sesion01\ValueType\bin\Debug\net6.0\ValueType.dll
+C:\Users\tranv\source\repos\Sesion01\ValueType\bin\Debug\net6.0\ValueType.pdb
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.dll
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\refint\ValueType.dll
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.pdb
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ValueType.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Sesion01\ValueType\obj\Debug\net6.0\ref\ValueType.dll
