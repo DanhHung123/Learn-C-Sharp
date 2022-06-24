@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\CodeSnippet\vd8\bin\Debug\net6.0\vd8.exe
+C:\Users\tranv\source\repos\CodeSnippet\vd8\bin\Debug\net6.0\vd8.deps.json
+C:\Users\tranv\source\repos\CodeSnippet\vd8\bin\Debug\net6.0\vd8.runtimeconfig.json
+C:\Users\tranv\source\repos\CodeSnippet\vd8\bin\Debug\net6.0\vd8.dll
+C:\Users\tranv\source\repos\CodeSnippet\vd8\bin\Debug\net6.0\vd8.pdb
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.AssemblyInfo.cs
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.dll
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\refint\vd8.dll
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.pdb
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\vd8.genruntimeconfig.cache
+C:\Users\tranv\source\repos\CodeSnippet\vd8\obj\Debug\net6.0\ref\vd8.dll
