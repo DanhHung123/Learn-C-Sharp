@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\bin\Debug\net6.0\Array-Anlphabet.exe
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\bin\Debug\net6.0\Array-Anlphabet.deps.json
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\bin\Debug\net6.0\Array-Anlphabet.runtimeconfig.json
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\bin\Debug\net6.0\Array-Anlphabet.dll
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\bin\Debug\net6.0\Array-Anlphabet.pdb
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.AssemblyInfo.cs
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.dll
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\refint\Array-Anlphabet.dll
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.pdb
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\Array-Anlphabet.genruntimeconfig.cache
+C:\Users\tranv\source\repos\Array-Anlphabet\Array-Anlphabet\obj\Debug\net6.0\ref\Array-Anlphabet.dll
