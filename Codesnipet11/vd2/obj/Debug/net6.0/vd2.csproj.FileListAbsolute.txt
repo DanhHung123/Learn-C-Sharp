@@ -1,0 +1,15 @@
+C:\Users\tranv\source\repos\vd1\vd2\bin\Debug\net6.0\vd2.exe
+C:\Users\tranv\source\repos\vd1\vd2\bin\Debug\net6.0\vd2.deps.json
+C:\Users\tranv\source\repos\vd1\vd2\bin\Debug\net6.0\vd2.runtimeconfig.json
+C:\Users\tranv\source\repos\vd1\vd2\bin\Debug\net6.0\vd2.dll
+C:\Users\tranv\source\repos\vd1\vd2\bin\Debug\net6.0\vd2.pdb
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.csproj.AssemblyReference.cache
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.AssemblyInfoInputs.cache
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.AssemblyInfo.cs
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.csproj.CoreCompileInputs.cache
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.dll
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\refint\vd2.dll
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.pdb
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\vd2.genruntimeconfig.cache
+C:\Users\tranv\source\repos\vd1\vd2\obj\Debug\net6.0\ref\vd2.dll
