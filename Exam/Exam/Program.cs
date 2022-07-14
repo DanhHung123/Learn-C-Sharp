@@ -75,12 +75,25 @@ class Program
 
         // Total Tax
         double totalTax = 0;
-        foreach(var p in product)
+        double taxBook = 0;
+        double taxPhone = 0;
+        foreach (var p in product)
         {
             Console.WriteLine($"{p.Name}: {p.computeTax()}$");
+            if (p.GetType().ToString() == "Book")
+            {
+                taxBook += p.computeTax();
+            }
+            if (p.GetType().ToString() == "Phone")
+            {
+                taxPhone += p.computeTax();
+            }
             totalTax += p.computeTax();
         }
         // Print total tax
+        Console.WriteLine();
+        Console.WriteLine($"Tax Book : {taxBook}$");
+        Console.WriteLine($"Tax Phone : {taxPhone}$");
         Console.WriteLine();
         Console.WriteLine($"=> Total tax: {totalTax}$" );
     }
